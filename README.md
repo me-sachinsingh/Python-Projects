@@ -1,4 +1,2 @@
 # Python-Projects
-Python developed programs.
-It's an artificial intelligence virtual assistant program written in python language. For natural language processing online service ApiAi is used.
-It includes pir sensor for motion detection, simple conversation between bot and the user, also the home automation part is in progress.
+All the programs developed by me on python are available. You can try them and modify it according to your requirement. In case of any help can contact me on sachin08996@gmail.com, for modification please do commit changes.
